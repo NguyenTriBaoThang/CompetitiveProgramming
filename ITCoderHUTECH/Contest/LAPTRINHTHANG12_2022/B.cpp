@@ -2,6 +2,8 @@
 using namespace std;
 typedef long long ll;
 
+// https://itcoder.hutech.edu.vn/contest/problem?id=68&pid=1
+
 void solve(){
     ll n=0; cin >> n;
     if(n <= 3) cout << n << endl;

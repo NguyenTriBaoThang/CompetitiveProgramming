@@ -2,6 +2,8 @@
 using namespace std;
 typedef long long ll;
 
+// https://itcoder.hutech.edu.vn/p/1000
+
 void solve(){
     int a=0, b=0; cin >> a >> b;
     cout << a + b << endl;
